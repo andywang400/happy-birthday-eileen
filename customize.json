@@ -2,7 +2,7 @@
   "greeting": "안녕!",
   "name": "Eileen宝贝",
   "greetingText": "Today is the best day!",
-  "wishText": "May the happiness always be with you! :)",
+  "wishText": "                    May the happiness always be with you! :)",
   "imagePath": "img/IMG_3028,.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "祝你生日快乐!!! 许许多多的祝福...",
@@ -16,8 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": " 
-  ",
+  "wishHeading": "                ",
   "outroText": "想不想我呀",
   "replayText": "喜欢的话，可以点击再次播放呦😆",
   "outroSmiley": ":)"
